@@ -1,0 +1,19 @@
+1. What is the difference between a web page and a website?
+     A wed page is a document that is connected to the World Wide Wed and that anyone with an internet connection can see, usually forming a website while a website is a place connected to ther internet, where a company, organization or an individual puts information.
+     OR
+     A webpage is a asingle document on the internet that is linked to a specific URL under the respective domain while a website is a collection of several documents associated witha specific domain.
+   Examples of a weg page 
+     login page
+     sign up page
+   Examples of a website
+     Amazon.com
+     Wikipedia.org
+   NOTE: A webpage is an independent page of a website.
+2. In web development, what is the difference between front end tools and back end tools. 
+     In simple words, the front end tools refer to the client-side of the application while back-end tools refer to the server-side of the application.
+   Examples of front-end tools
+       <a href="first_code.html"> First codee </a> 
+    <a href="index2.html"> index </a>
+    <a href="contactpage.html"> contact </a>
+    <a href="about.html"> about </a>
+    <a href="Assignment/Assignment1.txt"> Assignmnent</a>
